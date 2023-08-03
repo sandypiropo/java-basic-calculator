@@ -2,7 +2,7 @@
   ![Captura de tela 2023-08-03 013324](https://github.com/sandypiropo/java-basic-calculator/assets/121200148/46a7424b-8820-4315-87af-3e504b05bb01)
 
 <body>
-    <h1>Simple Java Calculator</h1>
+    <h1>Basic Java Calculator</h1>
     <p>
         This is a simple calculator application developed in Java using the Swing library for the graphical user interface. The calculator was inspired by various YouTube videos on Java GUI development. Through these videos, I gained valuable insights into building graphical applications in Java and used this project as a means of practical learning.
     </p>
